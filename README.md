@@ -1,1 +1,1 @@
-# Fundisa
+# Fundisa is a website where sponsors can find and sponsor the education of a kid in need. The sponsors can either pick a kid and sponsor his/her education or make a donation to Fundisa’s account in general which will be collected and put together for the education of the kids in need. If someone knows a kid who is in need of education, they can enrol the kid in the website. This will help the sponsors find and help the kid. 
